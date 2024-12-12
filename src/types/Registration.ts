@@ -5,4 +5,5 @@ export interface Registration {
     email: string;
     gender: string;
     sexuality: string;
+    pictures: File[];
 }
